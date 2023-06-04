@@ -8,4 +8,5 @@
  1. DNI del cliente que mas compras ha realizado
  2. Monto total reacudado por cada categoria.
  3. Cantidad total de compras de cliente con DNI compuesto por, al menos 3 digitos pares.
+ 
  Nota: implemetnar el programa principal. 
